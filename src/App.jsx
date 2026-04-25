@@ -91,7 +91,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Product Store</h1>
+      <h1>Layla’s Store</h1>
 
       <p>{message}</p>
 
